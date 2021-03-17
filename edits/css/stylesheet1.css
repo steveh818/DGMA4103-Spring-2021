@@ -10,9 +10,13 @@ nav {
   font-family:monospace;
 }
 table {
-border-color:solid;slateblue;
+border:solid White;
 
 }
 a{
   color:white;
+}
+footer{
+  color: purple;
+  font-size: 15px
 }
