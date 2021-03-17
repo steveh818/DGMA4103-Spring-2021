@@ -1,15 +1,18 @@
 body{
 
-  text-align: center;
-
-
+  text-align:center;
+font-family: monospace;
+color: White;
 }
 nav {
-  color: white
-  
-  font-family: monospace;
+  color:white;
+
+  font-family:monospace;
 }
 table {
-border-color: solid slateblue
+border-color:solid;slateblue;
 
+}
+a{
+  color:white;
 }
