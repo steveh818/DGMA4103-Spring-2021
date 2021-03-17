@@ -5,6 +5,8 @@ body{
 
 }
 nav {
+  color: white
+  
   font-family: monospace;
 }
 table {
