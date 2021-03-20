@@ -3,6 +3,7 @@ body{
   text-align:center;
 font-family: monospace;
 color: White;
+font-size: 18px
 }
 nav {
   color:white;
@@ -11,20 +12,25 @@ background-color: #D247EE;
 }
 table {
 
-border:solid #9999ff;
+border: inset #9999ff;
 outline-color: #9999ff;
-outline-offset: 15px
+outline-offset: 15px;
+
 }
 a{
   color:white;
 }
 footer{
-  color: purple;
-  font-size: 15px
+  color: navy;
+  font-size: 13px
 }
 p{
-  background-color: #D247EE
+  background-color: #D247EE;
 }
 table{
-  background-color: #D247EE
+  background-color: #D247EE;
+}
+hr{
+  outline-style: double;
+color: #D247EE
 }
