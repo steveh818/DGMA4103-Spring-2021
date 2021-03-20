@@ -6,12 +6,14 @@ color: White;
 }
 nav {
   color:white;
-
+background-color: #D247EE;
   font-family:monospace;
 }
 table {
-border:solid White;
 
+border:solid #9999ff;
+outline-color: #9999ff;
+outline-offset: 15px
 }
 a{
   color:white;
@@ -19,4 +21,10 @@ a{
 footer{
   color: purple;
   font-size: 15px
+}
+p{
+  background-color: #D247EE
+}
+table{
+  background-color: #D247EE
 }

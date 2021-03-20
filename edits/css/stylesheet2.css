@@ -1,24 +1,28 @@
 p{
   color: White;
   font-family:sans-serif;
-
+background-color: #235c57
 }
 h1{
-  color: White
+  color: White;
+  background-color: #235c57
+
 }
 
 
 dl{
   color: White;
   font-family: sans-serif;
+  background-color: #235c57
 
 }
 nav{
-
+background-color: #235c57;
   text-align: center;
 
 }
 a{
   color: White;
   font-family: sans-serif;
+  background-color: #235c57;
 }

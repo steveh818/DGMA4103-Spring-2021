@@ -6,12 +6,24 @@ a{
 p{color: navy;
   text-align: center;
   font-family: fantasy;
+  background-color: #fced8b;
+
 }
 h1{color:navy;
 text-align: center;
-font-family: fantasy;}
+font-family: fantasy;
+background-color: #fced8b;}
 h4{color: navy;
-text-align: center;font-family: fantasy;}
+text-align: center;font-family: fantasy;
+background-color: #fced8b}
 h6{color: navy;
-text-align: center;font-family: fantasy;}
-nav{text-align: center;}
+text-align: center;font-family: fantasy;
+background-color: #fced8b}
+nav{text-align: center;
+background-color: #fced8b;}
+img{
+  background-color: #fced8b;
+}
+a{
+  background-color: #fced8b;
+}
